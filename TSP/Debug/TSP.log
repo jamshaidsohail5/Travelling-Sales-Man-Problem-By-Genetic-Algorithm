@@ -1,0 +1,91 @@
+﻿Build started 4/17/2017 6:06:36 PM.
+     1>Project "D:\Semester 6 Spring 2017\Artificial Intelligence\TSP\TSP\TSP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\vu\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(37): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(668): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(669): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(802): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(810): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1013): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1014): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1147): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1155): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1359): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1360): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1493): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1501): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1706): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1707): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1840): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(1848): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2171): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2178): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2224): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2225): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2358): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2366): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2585): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2592): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2638): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2639): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2772): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2780): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3001): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3008): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3054): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3055): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3188): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3196): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3414): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3421): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3467): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3468): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3601): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3609): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(4141): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(4149): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(4527): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(4535): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(4913): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(4921): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5299): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5307): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5601): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5604): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5771): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5779): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5949): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5952): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6119): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6127): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6298): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6301): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6468): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6476): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6646): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6649): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6808): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(6816): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(581): warning C4101: 'indexing1' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(596): warning C4101: 'v' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(582): warning C4101: 'firstflag' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2071): warning C4101: 'indexing1' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2086): warning C4101: 'v' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(2072): warning C4101: 'firstflag' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3843): warning C4101: 'indexing1' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3859): warning C4101: 'v' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(3844): warning C4101: 'firstflag' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5532): warning C4101: 'indexing1' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5547): warning C4101: 'v' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5533): warning C4101: 'firstflag' : unreferenced local variable
+     1>d:\semester 6 spring 2017\artificial intelligence\tsp\tsp\source.cpp(5525): warning C4101: 'check_1' : unreferenced local variable
+       Link:
+         E:\vu\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Semester 6 Spring 2017\Artificial Intelligence\TSP\Debug\TSP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Semester 6 Spring 2017\Artificial Intelligence\TSP\Debug\TSP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Semester 6 Spring 2017\Artificial Intelligence\TSP\Debug\TSP.lib" /MACHINE:X86 Debug\Source.obj
+         TSP.vcxproj -> D:\Semester 6 Spring 2017\Artificial Intelligence\TSP\Debug\TSP.exe
+     1>Done Building Project "D:\Semester 6 Spring 2017\Artificial Intelligence\TSP\TSP\TSP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.39
